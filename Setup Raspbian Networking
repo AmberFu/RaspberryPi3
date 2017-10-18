@@ -1,0 +1,30 @@
+### Static IP
+
+* check up IP address:
+> $ ifconfig
+> $ ip routeshow
+> $ hostname -I
+>
+
+如果使用與路由器的以太網連接，則不應該需要配置，並且應該開箱即用。
+
+* Setting static IP:
+Raspbian 在 May 2015 對網路設定（尤其是 wifi ）有大幅度的改變，
+但此次 Raspbian Stretch 的升版，將使過去的教程過時。
+
+首先，先停止 dhcpcd:
+
+> sudo systemctl stop dhcpcd.service
+> 
+
+
+
+
+
+
+
+
+
+
+
+
