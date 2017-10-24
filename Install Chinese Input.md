@@ -20,21 +20,22 @@ $ ibus restart
 ```
 
 3. 啟動 IBus ：
-
-    * 3-1a. Terminal :
+  - Terminal :
       ```
       $ /usr/bin/ibus-daemon --xim &
+      
       $ /usr/bin/ibus-setup
       ```
       （開啟設定界面）
       
-    * 3-1b. 視窗界面：
-     開始 -> Preferences -> IBus Preferences （開啟設定界面）
+  - 視窗界面：
+     
+     - 開始 -> Preferences -> IBus Preferences （開啟設定界面）
     
-    * 3-2. IBus Preferences：
-        - General : 可設定切換鍵
-        - Input Method : Add -> Chinese -> Chewing （新增輸入方式）
-        - Close 完成設定
+  - IBus Preferences：
+    - General : 可設定切換鍵
+    - Input Method : Add -> Chinese -> Chewing （新增輸入方式）
+    - Close 完成設定
         
 
 完成後，在右上角 EN 部份，點擊可以看到 新酷音 選項。
