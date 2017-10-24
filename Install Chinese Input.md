@@ -21,17 +21,17 @@ $ ibus restart
 
 3. 啟動 IBus ：
 
-    3-1a. Terminal :
+    * 3-1a. Terminal :
       ```
       $ /usr/bin/ibus-daemon --xim &
       $ /usr/bin/ibus-setup
       ```
       （開啟設定界面）
       
-    3-1b. 視窗界面：
+    * 3-1b. 視窗界面：
      開始 -> Preferences -> IBus Preferences （開啟設定界面）
     
-    3-2. IBus Preferences：
+    * 3-2. IBus Preferences：
         - General : 可設定切換鍵
         - Input Method : Add -> Chinese -> Chewing （新增輸入方式）
         - Close 完成設定
