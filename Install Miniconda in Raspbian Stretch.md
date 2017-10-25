@@ -73,7 +73,7 @@ Thank you for installing Miniconda3!
 完成！
 
 
-~~## 在 Raspbian Stretch 安裝 Anaconda [失敗，不支援 ARMv71 晶片]~~
+## ~~在 Raspbian Stretch 安裝 Anaconda [失敗，不支援 ARMv71 晶片]~~
 
 1. 到 [Anaconda](https://www.anaconda.com/download/#linux) 下載 Installer
 
