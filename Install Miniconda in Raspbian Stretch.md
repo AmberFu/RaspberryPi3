@@ -3,10 +3,10 @@
 由於安裝 Anaconda 失敗（下方有失敗紀錄...），改成安裝 Miniconda，
 但要注意必須安裝 ARMv71 版，目前看來此版本僅更新到 2015/08/24 。
 
-> Filename | Size | Last | Modified	MD5
-> 
-> Miniconda3-latest-Linux-armv7l.sh	| 29.9M |	2015-08-24 12:34:00	| a01cbe45755d576c2bb9833859cf9fd7
-> 
+Filename | Size | Last | Modified	MD5 
+-------- | ---- | ---- | ------------
+Miniconda3-latest-Linux-armv7l.sh	| 29.9M |	2015-08-24 12:34:00	| a01cbe45755d576c2bb9833859cf9fd7
+
 
 1. 到 [Miniconda installer archive](https://repo.continuum.io/miniconda/index.html) 下載 Installer
 
@@ -73,7 +73,7 @@ Thank you for installing Miniconda3!
 完成！
 
 
-## ~~在 Raspbian Stretch 安裝 Anaconda [失敗，不支援 ARMv71 晶片]~~
+## 在 Raspbian Stretch 安裝 Anaconda [失敗，不支援 ARMv71 晶片]
 
 1. 到 [Anaconda](https://www.anaconda.com/download/#linux) 下載 Installer
 
