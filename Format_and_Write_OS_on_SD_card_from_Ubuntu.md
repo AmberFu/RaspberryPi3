@@ -58,7 +58,7 @@ xxx.img.gz 用 gunzip 解壓縮
 
 4. 使用 Etcher 燒錄：
 
-
+參考 Etcher_write_OS.png 
 
 ps. 或參考 https://elinux.org/RPi_Easy_SD_Card_Setup 用 CML 燒錄
 
