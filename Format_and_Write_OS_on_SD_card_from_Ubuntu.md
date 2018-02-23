@@ -41,4 +41,25 @@ Filesystem      Size  Used Avail Use% Mounted on
 
 ```
 
+# Write OS into SD Card
+
+1. 下載 Raspberry Pi OS : 
+
+  * 官網： https://www.raspberrypi.org/downloads/
+
+
+2. 下載 Etcher Img 燒錄軟體： (Mac,Linux,Windows)
+
+  * 官網： https://etcher.io/
+
+3. 解壓縮 OS ：
+
+xxx.img.gz 用 gunzip 解壓縮
+
+4. 使用 Etcher 燒錄：
+
+
+
+ps. 或參考 https://elinux.org/RPi_Easy_SD_Card_Setup 用 CML 燒錄
+
 
