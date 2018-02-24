@@ -7,9 +7,9 @@ $ df -h
 Filesystem     1K-blocks     Used Available Use% Mounted on
 :
 :
-/dev/sda1       60623936  2615744  58008192   5% /media/amberfu/B1C4-01F1
-/dev/mmcblk0p1    244988    22199    222790  10% /media/amberfu/7A51-069A
-/dev/mmcblk0p2  14935048   594628  13558700   5% /media/amberfu/92892fc6-4866-4576-a6b4-e5fd25a5d81c
+/dev/sda1        58G  3.1G   55G   6% /media/amberfu/B1C4-01F1
+/dev/mmcblk0p2   30G  5.6G   23G  20% /media/amberfu/b4ea8e46-fe87-4ddd-9e94-506c37005ac5
+/dev/mmcblk0p1   42M   21M   21M  51% /media/amberfu/boot
 
 ```
 其中， USB 為 /dev/sda1 , SD 卡為 /dev/mmcblk0p1 & p2
